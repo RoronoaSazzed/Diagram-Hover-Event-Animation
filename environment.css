@@ -1,0 +1,160 @@
+/* environment 1 */
+
+#environment-1,
+#box13 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#environment-1:hover #box13 {
+  transform: translate(10px, -15px);
+}
+
+#environment-line1 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#environment-1:hover #environment-line1 {
+  transform: rotate(2deg);
+}
+
+/* environment 2 */
+
+#environment-2,
+#box13_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#environment-2:hover #box13_2 {
+  transform: translate(10px, -10px);
+}
+
+#environment-line2 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#environment-2:hover #environment-line2 {
+  transform: rotate(3deg);
+}
+
+/* environment 3 */
+
+#environment-3,
+#box13_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#environment-3:hover #box13_3 {
+  transform: translate(15px, -10px);
+}
+
+#environment-line3 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#environment-3:hover #environment-line3 {
+  transform: rotate(3deg);
+}
+
+/* environment 3 */
+
+#environment-3,
+#box13_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#environment-3:hover #box13_3 {
+  transform: translate(15px, -10px);
+}
+
+#environment-line3 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#environment-3:hover #environment-line3 {
+  transform: rotate(3deg);
+}
+
+/* environment 4 */
+
+#environment-4,
+#box13_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#environment-4:hover #box13_4 {
+  transform: translate(15px, -10px);
+}
+
+#environment-line4 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#environment-4:hover #environment-line4 {
+  transform: rotate(3deg);
+}
+
+/* environment 5 */
+
+#environment-5,
+#box13_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#environment-5:hover #box13_5 {
+  transform: translate(10px, -15px);
+}
+
+#environment-line5 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#environment-5:hover #environment-line5 {
+  transform: rotate(5deg);
+}
+
+/* environment 6 */
+
+#environment-6,
+#box13_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#environment-6:hover #box13_6 {
+  transform: translate(-5px, -15px);
+}
+
+#environment-line6 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#environment-6:hover #environment-line6 {
+  transform: rotate(6deg);
+}

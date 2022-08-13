@@ -1,0 +1,137 @@
+/* electronics 1 */
+
+#electronics-1,
+#box11 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#electronics-1:hover #box11 {
+  transform: translate(10px, 10px);
+}
+
+#electronics-line1 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#electronics-1:hover #electronics-line1 {
+  transform: rotate(-7deg);
+}
+
+/* electronics 2 */
+
+#electronics-2,
+#box11_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#electronics-2:hover #box11_2 {
+  transform: translate(10px, 10px);
+}
+
+#electronics-line2 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#electronics-2:hover #electronics-line2 {
+  transform: rotate(-5deg);
+}
+
+/* electronics 3 */
+
+#electronics-3,
+#box11_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#electronics-3:hover #box11_3 {
+  transform: translate(-5px, -5px);
+}
+
+#electronics-line3 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#electronics-3:hover #electronics-line3 {
+  transform: rotate(3deg);
+}
+
+/* electronics 4 */
+
+#electronics-4,
+#box11_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#electronics-4:hover #box11_4 {
+  transform: translate(5px, -5px);
+}
+
+#electronics-line4 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#electronics-4:hover #electronics-line4 {
+  transform: rotate(-2.5deg);
+}
+
+/* electronics 5 */
+
+#electronics-5,
+#box11_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#electronics-5:hover #box11_5 {
+  transform: translate(5px, -10px);
+}
+
+#electronics-line5 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#electronics-5:hover #electronics-line5 {
+  transform: rotate(-2.5deg);
+}
+
+/* electronics 6 */
+
+#electronics-6,
+#box11_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#electronics-6:hover #box11_6 {
+  transform: translate(5px, -15px);
+}
+
+#electronics-line6 {
+  transform-origin: top left;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#electronics-6:hover #electronics-line6 {
+  transform: rotate(-5deg);
+}

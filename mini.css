@@ -1,0 +1,137 @@
+/* Mini 1 */
+
+#mini-1,
+#box {
+  transform-origin: center;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#mini-1:hover #box {
+  transform: translate(15px, -15px);
+}
+
+#mini-line1 {
+  transform-origin: center;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#mini-1:hover #mini-line1 {
+  transform: rotate(15deg);
+}
+
+/* Mini 2 */
+
+#mini-2,
+#box_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#mini-2:hover #box_2 {
+  transform: translate(15px, -5px);
+}
+
+#mini-line2 {
+  transform-origin: center bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#mini-2:hover #mini-line2 {
+  transform: rotate(15deg);
+}
+
+/* Mini 3 */
+
+#mini-3,
+#box_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#mini-3:hover #box_3 {
+  transform: translate(-15px, -15px);
+}
+
+#mini-line3 {
+  transform-origin: center;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#mini-3:hover #mini-line3 {
+  transform: rotate(-15deg);
+}
+
+/* Mini 4 */
+
+#mini-4,
+#box_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#mini-4:hover #box_4 {
+  transform: translate(-15px, 15px);
+}
+
+#mini-line4 {
+  transform-origin: top left;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#mini-4:hover #mini-line4 {
+  transform: rotate(7deg);
+}
+
+/* Mini 5 */
+
+#mini-5,
+#box_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#mini-5:hover #box_5 {
+  transform: translate(-15px, 5px);
+}
+
+#mini-line5 {
+  transform-origin: center top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#mini-5:hover #mini-line5 {
+  transform: rotate(15deg);
+}
+
+/* Mini 6 */
+
+#mini-6,
+#box_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#mini-6:hover #box_6 {
+  transform: translate(10px, 10px);
+}
+
+#mini-line6 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#mini-6:hover #mini-line6 {
+  transform: rotate(-5deg);
+}

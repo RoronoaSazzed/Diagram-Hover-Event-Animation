@@ -1,0 +1,114 @@
+/* tablet 1 */
+
+#tablet-1,
+#box5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#tablet-1:hover #box5 {
+  transform: translate(-10px, -10px);
+}
+
+#tablet-line1 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#tablet-1:hover #tablet-line1 {
+  transform: rotate(-5deg);
+}
+
+/* tablet 2 */
+
+#tablet-2,
+#box5_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#tablet-2:hover #box5_2 {
+  transform: translate(-5px, -5px);
+}
+
+#tablet-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#tablet-2:hover #tablet-line2 {
+  transform: rotate(-2deg);
+}
+
+/* tablet 3 */
+
+#tablet-3,
+#box5_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#tablet-3:hover #box5_3 {
+  transform: translate(5px, 5px);
+}
+
+#tablet-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#tablet-3:hover #tablet-line3 {
+  transform: rotate(5deg);
+}
+
+/* tablet 4 */
+
+#tablet-4,
+#box5_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#tablet-4:hover #box5_4 {
+  transform: translate(-5px, 5px);
+}
+
+#tablet-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#tablet-4:hover #tablet-line4 {
+  transform: rotate(3.5deg);
+}
+
+/* tablet 5 */
+
+#tablet-5,
+#box5_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#tablet-5:hover #box5_5 {
+  transform: translate(-10px, 0px);
+}
+
+#tablet-line5 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#tablet-5:hover #tablet-line5 {
+  transform: rotate(5deg);
+}

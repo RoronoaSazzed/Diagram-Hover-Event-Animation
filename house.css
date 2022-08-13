@@ -1,0 +1,160 @@
+/* house 1 */
+
+#house-1,
+#box7 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#house-1:hover #box7 {
+  transform: translate(-10px, -5px);
+}
+
+#house-line1 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#house-1:hover #house-line1 {
+  transform: rotate(-7deg);
+}
+
+/* house 2 */
+
+#house-2,
+#box7_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#house-2:hover #box7_2 {
+  transform: translate(10px, 10px);
+}
+
+#house-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#house-2:hover #house-line2 {
+  transform: rotate(3deg);
+}
+
+/* house 3 */
+
+#house-3,
+#box7_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#house-3:hover #box7_3 {
+  transform: translate(10px, 10px);
+}
+
+#house-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#house-3:hover #house-line3 {
+  transform: rotate(3deg);
+}
+
+/* house 4 */
+
+#house-4,
+#box7_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#house-4:hover #box7_4 {
+  transform: translate(5px, 10px);
+}
+
+#house-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#house-4:hover #house-line4 {
+  transform: rotate(3deg);
+}
+
+/* house 5 */
+
+#house-5,
+#box7_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#house-5:hover #box7_5 {
+  transform: translate(5px, 10px);
+}
+
+#house-line5 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#house-5:hover #house-line5 {
+  transform: rotate(3deg);
+}
+
+/* house 6 */
+
+#house-6,
+#box7_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#house-6:hover #box7_6 {
+  transform: translate(-5px, 10px);
+}
+
+#house-line6 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#house-6:hover #house-line6 {
+  transform: rotate(3deg);
+}
+
+/* house 7 */
+
+#house-7,
+#box7_7 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#house-7:hover #box7_7 {
+  transform: translate(-5px, 10px);
+}
+
+#house-line7 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#house-7:hover #house-line7 {
+  transform: rotate(5deg);
+}

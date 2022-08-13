@@ -1,0 +1,114 @@
+/* Coding 1 */
+
+#coding-1,
+#box1 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#coding-1:hover #box1 {
+  transform: translate(-15px, 0px);
+}
+
+#coding-line1 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#coding-1:hover #coding-line1 {
+  transform: rotate(-5deg);
+}
+
+/* Coding 2 */
+
+#coding-2,
+#box1_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#coding-2:hover #box1_2 {
+  transform: translate(0px, 5px);
+}
+
+#coding-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#coding-2:hover #coding-line2 {
+  transform: rotate(2deg);
+}
+
+/* Coding 3 */
+
+#coding-3,
+#box1_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#coding-3:hover #box1_3 {
+  transform: translate(0px, 5px);
+}
+
+#coding-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#coding-3:hover #coding-line3 {
+  transform: rotate(2deg);
+}
+
+/* Coding 4 */
+
+#coding-4,
+#box1_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#coding-4:hover #box1_4 {
+  transform: translate(0px, -5px);
+}
+
+#coding-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#coding-4:hover #coding-line4 {
+  transform: rotate(-7deg);
+}
+
+/* Coding 5 */
+
+#coding-5,
+#box1_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#coding-5:hover #box1_5 {
+  transform: translate(0px, -5px);
+}
+
+#coding-line5 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#coding-5:hover #coding-line5 {
+  transform: rotate(-2.5deg);
+}

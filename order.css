@@ -1,0 +1,68 @@
+/* order 1 */
+
+#order-1,
+#box3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#order-1:hover #box3 {
+  transform: translate(-15px, 0px);
+}
+
+#order-line1 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#order-1:hover #order-line1 {
+  transform: rotate(-5deg);
+}
+
+/* order 2 */
+
+#order-2,
+#box3_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#order-2:hover #box3_2 {
+  transform: translate(0px, 5px);
+}
+
+#order-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#order-2:hover #order-line2 {
+  transform: rotate(2deg);
+}
+
+/* order 3 */
+
+#order-3,
+#box3_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#order-3:hover #box3_3 {
+  transform: translate(0px, 5px);
+}
+
+#order-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#order-3:hover #order-line3 {
+  transform: rotate(2deg);
+}

@@ -1,0 +1,137 @@
+/* simple 1 */
+
+#simple-1,
+#box8 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#simple-1:hover #box8 {
+  transform: translate(-10px, -5px);
+}
+
+#simple-line1 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#simple-1:hover #simple-line1 {
+  transform: rotate(-7deg);
+}
+
+/* simple 2 */
+
+#simple-2,
+#box8_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#simple-2:hover #box8_2 {
+  transform: translate(10px, 10px);
+}
+
+#simple-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#simple-2:hover #simple-line2 {
+  transform: rotate(3deg);
+}
+
+/* simple 3 */
+
+#simple-3,
+#box8_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#simple-3:hover #box8_3 {
+  transform: translate(10px, 10px);
+}
+
+#simple-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#simple-3:hover #simple-line3 {
+  transform: rotate(3deg);
+}
+
+/* simple 4 */
+
+#simple-4,
+#box8_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#simple-4:hover #box8_4 {
+  transform: translate(-10px, 10px);
+}
+
+#simple-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#simple-4:hover #simple-line4 {
+  transform: rotate(3deg);
+}
+
+/* simple 5 */
+
+#simple-5,
+#box8_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#simple-5:hover #box8_5 {
+  transform: translate(-10px, 10px);
+}
+
+#simple-line5 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#simple-5:hover #simple-line5 {
+  transform: rotate(3deg);
+}
+
+/* simple 6 */
+
+#simple-6,
+#box8_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#simple-6:hover #box8_6 {
+  transform: translate(-10px, 10px);
+}
+
+#simple-line6 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#simple-6:hover #simple-line6 {
+  transform: rotate(5deg);
+}

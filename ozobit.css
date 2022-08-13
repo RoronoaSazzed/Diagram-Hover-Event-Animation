@@ -1,0 +1,114 @@
+/* ozobit 1 */
+
+#ozobit-1,
+#box9 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#ozobit-1:hover #box9 {
+  transform: translate(10px, 10px);
+}
+
+#ozobit-line1 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#ozobit-1:hover #ozobit-line1 {
+  transform: rotate(4deg);
+}
+
+/* ozobit 2 */
+
+#ozobit-2,
+#box9_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#ozobit-2:hover #box9_2 {
+  transform: translate(10px, 10px);
+}
+
+#ozobit-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#ozobit-2:hover #ozobit-line2 {
+  transform: rotate(3deg);
+}
+
+/* ozobit 3 */
+
+#ozobit-3,
+#box9_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#ozobit-3:hover #box9_3 {
+  transform: translate(10px, 5px);
+}
+
+#ozobit-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#ozobit-3:hover #ozobit-line3 {
+  transform: rotate(3deg);
+}
+
+/* ozobit 4 */
+
+#ozobit-4,
+#box9_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#ozobit-4:hover #box9_4 {
+  transform: translate(10px, 10px);
+}
+
+#ozobit-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#ozobit-4:hover #ozobit-line4 {
+  transform: rotate(3deg);
+}
+
+/* ozobit 5 */
+
+#ozobit-5,
+#box9_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#ozobit-5:hover #box9_5 {
+  transform: translate(-15px, 10px);
+}
+
+#ozobit-line5 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#ozobit-5:hover #ozobit-line5 {
+  transform: rotate(7deg);
+}

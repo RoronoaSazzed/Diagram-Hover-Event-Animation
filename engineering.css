@@ -1,0 +1,252 @@
+/* engineering 1 */
+
+#engineering-1,
+#box6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-1:hover #box6 {
+  transform: translate(-10px, -10px);
+}
+
+#engineering-line1 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-1:hover #engineering-line1 {
+  transform: rotate(-5deg);
+}
+
+/* engineering 2 */
+
+#engineering-2,
+#box6_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-2:hover #box6_2 {
+  transform: translate(-5px, -5px);
+}
+
+#engineering-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-2:hover #engineering-line2 {
+  transform: rotate(-2deg);
+}
+
+/* engineering 3 */
+
+#engineering-3,
+#box6_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-3:hover #box6_3 {
+  transform: translate(-5px, -5px);
+}
+
+#engineering-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-3:hover #engineering-line3 {
+  transform: rotate(-2deg);
+}
+
+/* engineering 4 */
+
+#engineering-4,
+#box6_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-4:hover #box6_4 {
+  transform: translate(-10px, 10px);
+}
+
+#engineering-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-4:hover #engineering-line4 {
+  transform: rotate(2deg);
+}
+
+/* engineering 5 */
+
+#engineering-5,
+#box6_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-5:hover #box6_5 {
+  transform: translate(10px, 0px);
+}
+
+#engineering-line5 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-5:hover #engineering-line5 {
+  transform: rotate(-5deg);
+}
+
+/* engineering 6 */
+
+#engineering-6,
+#box6_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-6:hover #box6_6 {
+  transform: translate(-10px, 10px);
+}
+
+#engineering-line6 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-6:hover #engineering-line6 {
+  transform: rotate(5deg);
+}
+
+/* engineering 7 */
+
+#engineering-7,
+#box6_7 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-7:hover #box6_7 {
+  transform: translate(10px, -5px);
+}
+
+#engineering-line7 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-7:hover #engineering-line7 {
+  transform: rotate(-5deg);
+}
+
+/* engineering 8 */
+
+#engineering-8,
+#box6_8 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-8:hover #box6_8 {
+  transform: translate(10px, -15px);
+}
+
+#engineering-line8 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-8:hover #engineering-line8 {
+  transform: rotate(-3deg);
+}
+
+/* engineering 9 */
+
+#engineering-9,
+#box6_9 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-9:hover #box6_9 {
+  transform: translate(10px, -15px);
+}
+
+#engineering-line9 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-9:hover #engineering-line9 {
+  transform: rotate(-3deg);
+}
+
+/* engineering 10 */
+
+#engineering-10,
+#box6_10 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-10:hover #box6_10 {
+  transform: translate(10px, -15px);
+}
+
+#engineering-line10 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-10:hover #engineering-line10 {
+  transform: rotate(-3deg);
+}
+
+/* engineering 11 */
+
+#engineering-11,
+#box6_11 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#engineering-11:hover #box6_11 {
+  transform: translate(20px, -15px);
+}
+
+#engineering-line11 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#engineering-11:hover #engineering-line11 {
+  transform: rotate(-5deg);
+}

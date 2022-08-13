@@ -1,0 +1,275 @@
+/* physics 1 */
+
+#physics-1,
+#box12 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-1:hover #box12 {
+  transform: translate(10px, -10px);
+}
+
+#physics-line1 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-1:hover #physics-line1 {
+  transform: rotate(7deg);
+}
+
+/* physics 2 */
+
+#physics-2,
+#box12_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-2:hover #box12_2 {
+  transform: translate(10px, -15px);
+}
+
+#physics-line2 {
+  transform-origin: bottom right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-2:hover #physics-line2 {
+  transform: rotate(3deg);
+}
+
+/* physics 3 */
+
+#physics-3,
+#box12_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-3:hover #box12_3 {
+  transform: translate(-10px, -15px);
+}
+
+#physics-line3 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-3:hover #physics-line3 {
+  transform: rotate(4deg);
+}
+
+/* physics 4 */
+
+#physics-4,
+#box12_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-4:hover #box12_4 {
+  transform: translate(-10px, -15px);
+}
+
+#physics-line4 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-4:hover #physics-line4 {
+  transform: rotate(4deg);
+}
+
+/* physics 5 */
+
+#physics-5,
+#box12_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-5:hover #box12_5 {
+  transform: translate(-10px, -15px);
+}
+
+#physics-line5 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-5:hover #physics-line5 {
+  transform: rotate(4deg);
+}
+
+/* physics 6 */
+
+#physics-6,
+#box12_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-6:hover #box12_6 {
+  transform: translate(-10px, -15px);
+}
+
+#physics-line6 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-6:hover #physics-line6 {
+  transform: rotate(3deg);
+}
+
+/* physics 7 */
+
+#physics-7,
+#box12_7 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-7:hover #box12_7 {
+  transform: translate(-10px, -15px);
+}
+
+#physics-line7 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-7:hover #physics-line7 {
+  transform: rotate(3deg);
+}
+
+/* physics 8 */
+
+#physics-8,
+#box12_8 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-8:hover #box12_8 {
+  transform: translate(-10px, -15px);
+}
+
+#physics-line8 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-8:hover #physics-line8 {
+  transform: rotate(3deg);
+}
+
+/* physics 9 */
+
+#physics-9,
+#box12_9 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-9:hover #box12_9 {
+  transform: translate(-15px, -5px);
+}
+
+#physics-line9 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-9:hover #physics-line9 {
+  transform: rotate(2deg);
+}
+
+/* physics 10 */
+
+#physics-10,
+#box12_10 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-10:hover #box12_10 {
+  transform: translate(-15px, -5px);
+}
+
+#physics-line10 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-10:hover #physics-line10 {
+  transform: rotate(2deg);
+}
+
+/* physics 11 */
+
+#physics-11,
+#box12_11 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-11:hover #box12_11 {
+  transform: translate(-15px, 5px);
+}
+
+#physics-line11 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-11:hover #physics-line11 {
+  transform: rotate(2deg);
+}
+
+/* physics 12 */
+
+#physics-12,
+#box12_12 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#physics-12:hover #box12_12 {
+  transform: translate(-15px, 5px);
+}
+
+#physics-line12 {
+  transform-origin: top right;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#physics-12:hover #physics-line12 {
+  transform: rotate(2deg);
+}

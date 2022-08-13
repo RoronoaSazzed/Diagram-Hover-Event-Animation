@@ -1,0 +1,183 @@
+/* materials 1 */
+
+#materials-1,
+#box10 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-1:hover #box10 {
+  transform: translate(10px, 0px);
+}
+
+#material-line1 {
+  transform-origin: right bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-1:hover #material-line1 {
+  transform: rotate(7deg);
+}
+
+/* materials 2 */
+
+#materials-2,
+#box10_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-2:hover #box10_2 {
+  transform: translate(10px, 5px);
+}
+
+#material-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-2:hover #material-line2 {
+  transform: rotate(5deg);
+}
+
+/* materials 3 */
+
+#materials-3,
+#box10_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-3:hover #box10_3 {
+  transform: translate(10px, 5px);
+}
+
+#material-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-3:hover #material-line3 {
+  transform: rotate(5deg);
+}
+
+/* materials 4 */
+
+#materials-4,
+#box10_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-4:hover #box10_4 {
+  transform: translate(5px, 10px);
+}
+
+#material-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-4:hover #material-line4 {
+  transform: rotate(5deg);
+}
+
+/* materials 5 */
+
+#materials-5,
+#box10_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-5:hover #box10_5 {
+  transform: translate(5px, 5px);
+}
+
+#material-line5 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-5:hover #material-line5 {
+  transform: rotate(3deg);
+}
+
+/* materials 6 */
+
+#materials-6,
+#box10_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-6:hover #box10_6 {
+  transform: translate(5px, 15px);
+}
+
+#material-line6 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-6:hover #material-line6 {
+  transform: rotate(6deg);
+}
+
+/* materials 7 */
+
+#materials-7,
+#box10_7 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-7:hover #box10_7 {
+  transform: translate(5px, 10px);
+}
+
+#material-line7 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-7:hover #material-line7 {
+  transform: rotate(6deg);
+}
+
+/* materials 8 */
+
+#materials-8,
+#box10_8 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#materials-8:hover #box10_8 {
+  transform: translate(-5px, 10px);
+}
+
+#material-line8 {
+  transform-origin: left top;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#materials-8:hover #material-line8 {
+  transform: rotate(12deg);
+}

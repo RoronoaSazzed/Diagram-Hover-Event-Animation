@@ -1,0 +1,206 @@
+/* methodology 1 */
+
+#methodology-1,
+#box4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-1:hover #box4 {
+  transform: translate(-15px, 15px);
+}
+
+#method-line1 {
+  transform-origin: right bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-1:hover #method-line1 {
+  transform: rotate(-2deg);
+}
+
+/* methodology 2 */
+
+#methodology-2,
+#box4_2 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-2:hover #box4_2 {
+  transform: translate(-15px, 10px);
+}
+
+#method-line2 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-2:hover #method-line2 {
+  transform: rotate(-4deg);
+}
+
+/* methodology 3 */
+
+#methodology-3,
+#box4_3 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-3:hover #box4_3 {
+  transform: translate(-15px, 10px);
+}
+
+#method-line3 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-3:hover #method-line3 {
+  transform: rotate(-5deg);
+}
+
+/* methodology 4 */
+
+#methodology-4,
+#box4_4 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-4:hover #box4_4 {
+  transform: translate(-10px, 0px);
+}
+
+#method-line4 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-4:hover #method-line4 {
+  transform: rotate(-3deg);
+}
+
+/* methodology 5 */
+
+#methodology-5,
+#box4_5 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-5:hover #box4_5 {
+  transform: translate(-10px, 10px);
+}
+
+#method-line5 {
+  transform-origin: right bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-5:hover #method-line5 {
+  transform: rotate(-3deg);
+}
+
+/* methodology 6 */
+
+#methodology-6,
+#box4_6 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-6:hover #box4_6 {
+  transform: translate(10px, 0px);
+}
+
+#method-line6 {
+  transform-origin: center bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-6:hover #method-line6 {
+  transform: rotate(3deg);
+}
+
+/* methodology 7 */
+
+#methodology-7,
+#box4_7 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-7:hover #box4_7 {
+  transform: translate(10px, 10px);
+}
+
+#method-line7 {
+  transform-origin: center bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-7:hover #method-line7 {
+  transform: rotate(2.5deg);
+}
+
+/* methodology 8 */
+
+#methodology-8,
+#box4_8 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-8:hover #box4_8 {
+  transform: translate(10px, 10px);
+}
+
+#method-line8 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-8:hover #method-line8 {
+  transform: rotate(5deg);
+}
+
+/* methodology 9 */
+
+#methodology-9,
+#box4_9 {
+  transition: all 0.5s;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#methodology-9:hover #box4_9 {
+  transform: translate(7px, 7px);
+}
+
+#method-line9 {
+  transform-origin: left bottom;
+  transform-box: fill-box;
+  transition: all 0.5s;
+}
+
+#methodology-9:hover #method-line9 {
+  transform: rotate(3deg);
+}
